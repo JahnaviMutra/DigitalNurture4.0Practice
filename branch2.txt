@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Content in GitNewBranch
+=======
+Content in GitNewBranch
+>>>>>>> fef5c762020ed20027c43a13d4419e1ce99e5ac3
